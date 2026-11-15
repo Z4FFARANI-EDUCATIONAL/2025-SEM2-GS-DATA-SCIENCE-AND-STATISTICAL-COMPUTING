@@ -1,3 +1,5 @@
+![banner](./assets/banner.png)
+
 # ROADIE · Data Science & Statistical Computing
 
 | Integrante | RM |
