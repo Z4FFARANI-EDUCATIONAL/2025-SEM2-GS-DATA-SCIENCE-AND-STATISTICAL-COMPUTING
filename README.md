@@ -16,6 +16,10 @@ Global Solution 2025.2 · Engenharia de Software · FIAP
 
 A **ROADIE** é uma plataforma imersiva voltada ao upskilling e à transição profissional, que combina trilhas de aprendizado personalizadas com dados do mercado de trabalho. Em um universo virtual de constelações, cada estrela representa competências e requisitos alinhados às profissões emergentes.
 
+### Projeto principal
+
+[ROADIE](https://github.com/Z4ffarani/ROADIE): repositório principal do projeto.
+
 ## Esta entrega: Data Science & Statistical Computing
 
 **O Futuro do Trabalho em Dados e Inteligência Artificial**: análise do mercado de trabalho em Data Science, explorando salários, tipos de contrato e distribuição global.
